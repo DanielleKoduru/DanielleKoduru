@@ -9,8 +9,8 @@ I am a full stack developer with experience in customer support in software. I w
 * ⚡ Fun fact: I love traveling, hiking in the rockies, and cooking new things. 
 
 ## Languages and Frameworks:
-Frontend: React, Javascript, HTML, CSS, Git Workflow
-Backend: Node.js, Python, SQL, PostgresSQL, Express, Insomnia, TablePlus, Heroku
+* Frontend: React, Javascript, HTML, CSS, Git Workflow
+* Backend: Node.js, Python, SQL, PostgresSQL, Express, Insomnia, TablePlus, Heroku
 
 <!--
 **DanielleKoduru/DanielleKoduru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
