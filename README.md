@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Danielle
 
 ## About Me:
-I am a full stack developer with experience in customer support in software. I was intrigued by development as I helped customers navigate bug and/or user issues, which brought me to [Lambda School's](https://lambdaschool.com) full stack web program. 
+I am a fullstack developer with experience in customer support in software. I was intrigued by development as I helped customers navigate bug and/or user issues, which brought me to [Lambda School's](https://lambdaschool.com) full stack web program. 
 
 * 🌱 I’m a fullstack software developer
 * 📫 You can reach me at dakoduru@gmail.com
