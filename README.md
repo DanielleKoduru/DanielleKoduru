@@ -5,7 +5,7 @@ I am a full stack software developer and I am passionate about making products t
 
 * 🌱 I’m currently learning [AntDesign](https://ant.design)
 * 🔭 I’m currently working with React on an open source project, you can check it out [here](https://github.com/Lambda-School-Labs/frontend-vbb-portal)
-* 👯 I’m looking to collaborate on backend node.js projects 
+* 👯 I’m looking to collaborate on Node.js projects 
 * 📫 You can reach me at dakoduru@gmail.com
 * 😄 Pronouns: She/Her
 * ⚡ Fun fact: I love traveling, hiking in the rockies, and cooking new things. 
