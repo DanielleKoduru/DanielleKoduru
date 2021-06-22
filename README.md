@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Danielle
 
 ## About Me:
-I am a fullstack developer with experience in customer support in software. I was intrigued by development as I helped customers navigate bug and/or user issues, which brought me to [Lambda School's](https://lambdaschool.com) full stack web program. 
+I am a full stack software developer, I am passionate about making products that bring simplicity and ease to users. 
 
-* 🌱 I’m a fullstack software developer
+* 🌱 I’m a full stack software developer
+* 🔭 I’m currently working with React on an open source project, you can check it out [here](https://github.com/Lambda-School-Labs/frontend-vbb-portal).
 * 📫 You can reach me at dakoduru@gmail.com
 * 😄 Pronouns: She/Her
 * ⚡ Fun fact: I love traveling, hiking in the rockies, and cooking new things. 
