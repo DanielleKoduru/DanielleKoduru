@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Danielle
 
 ## About Me:
-I am a full stack software developer and I am passionate about making products that bring simplicity and ease to users, creating a user expercience that users will want to use again and again. 
+I am a full stack software engineer and I am passionate about making products that bring simplicity and ease to users, creating a user expercience that users will want to use again and again. 
 
 * 🌱 I’m currently learning [AntDesign](https://ant.design)
 * 🔭 I’m currently working with React on an open source project, you can check it out [here](https://github.com/Lambda-School-Labs/frontend-vbb-portal)
@@ -11,8 +11,9 @@ I am a full stack software developer and I am passionate about making products t
 * ⚡ Fun fact: I love traveling, hiking in the rockies, and cooking new things. 
 
 ## Languages, Softwares, and Frameworks:
-* Frontend: React, Redux, Javascript, HTML, CSS, Styled Components, Reactstrap, Netlify, Vercel, Whimsical
-* Backend: Node.js, Python, SQL, PostgresSQL, Express, Insomnia, TablePlus, Heroku, DB Designer
+* Frontend: React, Redux, Javascript, HTML, CSS, Styled Components, Reactstrap, Netlify, Vercel
+* Backend: Node.js, Python, SQL, PostgresSQL, Express, Insomnia, TablePlus, Heroku
+* Softwares:  DB Designer, Whimsical, Markdown, Salesforce 
 
 <!--
 **DanielleKoduru/DanielleKoduru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
