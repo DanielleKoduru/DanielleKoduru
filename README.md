@@ -7,6 +7,7 @@ I am a full stack software engineer and I am passionate about making products th
 * 🔭 I’m currently working with React on an open source project, you can check it out [here](https://github.com/Lambda-School-Labs/frontend-vbb-portal)
 * 👯 I’m looking to collaborate on Node.js projects 
 * 📫 You can reach me at dakoduru@gmail.com
+* 💬 Find me on [LinkedIn](https://www.linkedin.com/in/danielle-koduru/)
 * 😄 Pronouns: She/Her
 * ⚡ Fun fact: I love traveling, hiking in the rockies, and cooking new things. 
 
