@@ -4,7 +4,7 @@
 I am a full stack software engineer and I am passionate about making products that bring simplicity and ease to users, creating a user expercience that users will want to use again and again. 
 
 * 🌱 I’m currently learning [AntDesign](https://ant.design)
-* 🔭 I’m currently working with React on an open source project, you can check it out [here](https://github.com/Lambda-School-Labs/frontend-vbb-portal)
+* 🔭 I’m currently working on a React project, you can check it out [here](https://github.com/Lambda-School-Labs/frontend-vbb-portal)
 * 👯 I’m looking to collaborate on Node.js projects 
 * 📫 You can reach me at dakoduru@gmail.com
 * 💬 Find me on [LinkedIn](https://www.linkedin.com/in/danielle-koduru/)
