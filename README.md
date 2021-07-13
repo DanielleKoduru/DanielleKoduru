@@ -12,9 +12,9 @@ I am a full stack software engineer and I am passionate about making products th
 * ⚡ Fun fact: I love traveling, hiking in the rockies, and cooking new things. 
 
 ## Languages, Softwares, and Frameworks:
-* Frontend: React, Redux, Javascript, HTML, CSS, Styled Components, Reactstrap, Netlify, Vercel
-* Backend: Node.js, Python, SQL, PostgresSQL, Express, Insomnia, TablePlus, Heroku
-* Softwares:  DB Designer, Whimsical, Markdown, Salesforce 
+* Frontend: HTML, CSS, Javascript, React, Redux, Styled Components, Ant Design 
+* Backend: Node.js, Python, SQL, PostgresSQL, Express, Knex, Sqlite3, Insomnia, TablePlus
+* Softwares:  DB Designer, Whimsical, Markdown, Github, GIT Workflow, Netlify, Vercel, Heroku
 
 <!--
 **DanielleKoduru/DanielleKoduru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
