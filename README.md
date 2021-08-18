@@ -4,12 +4,12 @@
 I am a full stack software engineer and I am passionate about making products that bring simplicity and ease to users, creating a user experience that users will want to use again and again. 
 
 * 🌱 I’m currently learning [AntDesign](https://ant.design)
-* 🔭 I’m currently working on a React project, you can check it out [here](https://github.com/Lambda-School-Labs/frontend-vbb-portal)
-* 👯 I’m looking to collaborate on Node.js projects 
+* 🔭 I’m currently working on a React project, you can check it out [here](https://github.com/Girl-Squad-Essentialism/front-end)
+* 👯 I’m looking to collaborate on Node.js and React Native projects 
 * 📫 You can reach me at dakoduru@gmail.com
 * 💬 Find me on [LinkedIn](https://www.linkedin.com/in/danielle-koduru/)
 * 😄 Pronouns: She/Her
-* ⚡ Fun fact: I love traveling, hiking in the rockies, and cooking new things. 
+* ⚡ Fun fact: I love traveling, hiking in the rockies, and cooking. 
 
 ## Languages, Softwares, and Frameworks:
 * Frontend: HTML, CSS, Javascript, React, Redux, Styled Components, Ant Design 
