@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Danielle
 
 ## About Me:
-I am a Data Scientist and I am passionate about managing and organizing data that brings security and ease to users, while structuring complex data in an understandable way. 
+I am a Data Scientist and I am passionate about managing and organizing data that brings security and ease to users, while structuring complex data in an understandable and reusable way. 
 
 * 🌱 I’m currently taking a deep dive into [Python](https://docs.python.org/3/)
 * 🔭 I’m currently working on CS problem solving, you can check it out [here](https://app.codesignal.com/profile/daniellek)
