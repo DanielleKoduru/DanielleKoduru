@@ -12,8 +12,11 @@ I am a Data Scientist and I am passionate about managing and organizing data tha
 
 ## Languages, Softwares, and Frameworks:
 * Frontend: HTML, CSS, Javascript, React, Redux, Styled Components, Ant Design 
-* Backend: Node.js, Python, SQL, PostgresSQL, Express, Knex, Sqlite3, Insomnia, TablePlus
-* Softwares:  DB Designer, Whimsical, Markdown, Github, GIT Workflow, Netlify, Vercel, Heroku
+* Backend: Node.js, Python, SQL, PostgresSQL, Express, Knex, Sqlite3, Insomnia, TablePlus, GIT
+* Technical:  DB Designer, Whimsical, Markdown, Github, Netlify, Vercel, Heroku, Spark, PySpark, Databricks, Tableau, Power BI, Seaborn, Pandas, Scikit-learn, Tensorflow, Jupyter Notebooks, Docker, Kubernetes, Asana, Postman, Postgres, Trello  
+* Functional: Communication Skills, Hypothesis Formulation, Understanding Business Problem, Stakeholder Management
+* Cloud: AWS (Sagemaker, S3, Redshift, Lambda)
+
 
 <!--
 **DanielleKoduru/DanielleKoduru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
