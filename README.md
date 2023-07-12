@@ -1,21 +1,19 @@
 # 👋 Hi, I'm Danielle
 
 ## About Me:
-I am a Data Scientist and I am passionate about managing and organizing data that brings security and ease to users, while structuring complex data in an understandable and reusable way. 
+I am an AI-specialized Data Scientist with a strong enthusiasm for continual learning. My passion lies in providing clients with clear insights and understanding regarding their data.
 
-* 🌱 I’m currently taking a deep dive into [Python](https://docs.python.org/3/)
-* 🔭 I’m currently working on CS problem solving, you can check it out [here](https://app.codesignal.com/profile/daniellek)
+* 🌱 I’m currently learning all things GEN AI
 * 📫 You can reach me at dakoduru@gmail.com
 * 💬 Find me on [LinkedIn](https://www.linkedin.com/in/danielle-koduru/)
 * 😄 Pronouns: She/Her
-* ⚡ Fun fact: I love traveling, hiking in the rockies, and cooking. 
+* ⚡ Fun fact: I love traveling, hiking, and cooking. 
 
 ## Languages, Softwares, and Frameworks:
-* Frontend: HTML, CSS, Javascript, React, Redux, Styled Components, Ant Design 
-* Backend: Node.js, Python, SQL, PostgresSQL, Express, Knex, Sqlite3, Insomnia, TablePlus, GIT
-* Technical:  DB Designer, Whimsical, Markdown, Github, Netlify, Vercel, Heroku, Spark, PySpark, Databricks, Tableau, Power BI, Seaborn, Pandas, Scikit-learn, Tensorflow, Jupyter Notebooks, Docker, Kubernetes, Asana, Postman, Postgres, Trello  
+* Languages: Python, Javascript, React, Node.js, SQL, R
+* Technical:  Time-Series Forecasting, Clustering, Segmentation, Spark, PySpark, Tableau, Power BI, Seaborn, Pandas, Sci-Py, Scikit-learn, Tensorflow, Docker, Asana, Postman, Postgres, Trello, Excel, Power Query, Jira, GIT
 * Functional: Communication Skills, Hypothesis Formulation, Understanding Business Problem, Stakeholder Management
-* Cloud: AWS (Sagemaker, S3, Redshift, Lambda)
+* Cloud: AWS (Sagemaker, S3, Redshift, Lambda), Kubernetes
 
 
 <!--
