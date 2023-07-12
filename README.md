@@ -10,7 +10,7 @@ I am an AI-specialized Data Scientist with a strong enthusiasm for continual lea
 * ⚡ Fun fact: I love traveling, hiking, and cooking. 
 
 ## Languages, Softwares, and Frameworks:
-* Languages: Python, Javascript, React, Node.js, SQL, R
+* Languages: Python, SQL, R, Javascript, React, Node.js
 * Technical:  Time-Series Forecasting, Clustering, Segmentation, Spark, PySpark, Tableau, Power BI, Seaborn, Pandas, Sci-Py, Scikit-learn, Tensorflow, Docker, Asana, Postman, Postgres, Trello, Excel, Power Query, Jira, GIT
 * Functional: Communication Skills, Hypothesis Formulation, Understanding Business Problem, Stakeholder Management
 * Cloud: AWS (Sagemaker, S3, Redshift, Lambda), Kubernetes
