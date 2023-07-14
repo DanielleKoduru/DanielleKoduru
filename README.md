@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Danielle
 
 ## About Me:
-I am an AI-specialized Data Scientist with a strong enthusiasm for continual learning. My passion lies in providing clients with clear insights and understanding regarding their data.
+I am a Data Scientist with a strong enthusiasm for continual learning. My passion lies in providing clients with clear insights and business understanding regarding their data.
 
 * 🌱 I’m currently learning all things GEN AI
 * 📫 You can reach me at dakoduru@gmail.com
