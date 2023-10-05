@@ -11,8 +11,8 @@ I am a Data Scientist with a strong enthusiasm for continual learning. My passio
 
 ## Languages, Softwares, and Frameworks:
 * Languages: Python, SQL, R, Javascript, React, Node.js
-* Technical:  Time-Series Forecasting, Clustering, Segmentation, LLM's, NLP, Spark, PySpark, Tableau, Power BI, Seaborn, Pandas, Sci-Py, Scikit-learn, Tensorflow, Docker, Asana, Postman, Postgres, Trello, Excel, Power Query, Jira, GIT
-* Functional: Communication Skills, Hypothesis Formulation, Understanding Business Problem, Stakeholder Management
+* Technical:  Time-Series Forecasting, Clustering, Segmentation, LLM's, NLP, Langchain, Semantic Kernel, Spark, PySpark, Tableau, Power BI, Seaborn, Pandas, Sci-Py, Scikit-learn, Numpy, Tensorflow, Docker, Asana, Postman, Postgres, Trello, Excel, Power Query, Jira, GIT
+* Functional: Communication Skills, Hypothesis Formulation, Understanding Business Problem, Stakeholder Management, Agile Methodology, Scrum, DevOps
 * Cloud: AWS (Sagemaker, S3, Redshift, Lambda), Kubernetes, Azure
 
 
