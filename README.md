@@ -3,15 +3,15 @@
 ## About Me:
 I am a Data Scientist with a strong enthusiasm for continual learning. My passion lies in providing clients with clear insights and business understanding regarding their data.
 
-* 🌱 I’m currently learning all things GEN AI
+* 🌱 I’m currently learning all things GEN AI 
 * 📫 You can reach me at dakoduru@gmail.com
 * 💬 Find me on [LinkedIn](https://www.linkedin.com/in/danielle-koduru/)
-* 😄 Pronouns: She/Her
+* 😄 Pronouns: She/Her/Hers
 * ⚡ Fun fact: I love traveling, hiking, and cooking. 
 
 ## Languages, Softwares, and Frameworks:
 * Languages: Python, SQL, R, Javascript, React, Node.js
-* Technical:  Time-Series Forecasting, Clustering, Segmentation, LLM's, NLP, Langchain, Semantic Kernel, Spark, PySpark, Tableau, Power BI, Seaborn, Pandas, Sci-Py, Scikit-learn, Numpy, Tensorflow, Docker, Asana, Postman, Postgres, Trello, Excel, Power Query, Jira, GIT
+* Technical:  Analytic Chatbots, Time-Series Forecasting, Clustering, Segmentation, LLM's, NLP, Langchain, Semantic Kernel, Databricks, Vector Storage, Spark, PySpark, Tableau, Power BI, Seaborn, Pandas, Sci-Py, Scikit-learn, Numpy, Tensorflow, Docker, Asana, Postman, Postgres, Trello, Excel, Power Query, Jira, GIT
 * Functional: Communication Skills, Hypothesis Formulation, Understanding Business Problem, Stakeholder Management, Agile Methodology, Scrum, DevOps
 * Cloud: AWS (Sagemaker, S3, Redshift, Lambda), Kubernetes, Azure
 
