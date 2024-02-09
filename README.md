@@ -7,7 +7,7 @@ I am a Data Scientist with a strong enthusiasm for continual learning. My passio
 * 📫 You can reach me at dakoduru@gmail.com
 * 💬 Find me on [LinkedIn](https://www.linkedin.com/in/danielle-koduru/)
 * 😄 Pronouns: She/Her/Hers
-* ⚡ Fun fact: I love traveling, hiking in the rockies, and trying new vegetarian recipes. 
+* ⚡ Fun fact: I love traveling, hiking, and cooking. 
 
 ## Languages, Softwares, and Frameworks:
 * Languages: Python, SQL, R, Javascript, React, Node.js
