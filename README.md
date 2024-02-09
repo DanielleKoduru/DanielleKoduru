@@ -7,13 +7,13 @@ I am a Data Scientist with a strong enthusiasm for continual learning. My passio
 * 📫 You can reach me at dakoduru@gmail.com
 * 💬 Find me on [LinkedIn](https://www.linkedin.com/in/danielle-koduru/)
 * 😄 Pronouns: She/Her/Hers
-* ⚡ Fun fact: I love traveling, hiking, and cooking. 
+* ⚡ Fun fact: I love traveling, hiking in the rockies, and trying new vegetarian recipes. 
 
 ## Languages, Softwares, and Frameworks:
 * Languages: Python, SQL, R, Javascript, React, Node.js
-* Technical:  Analytic Chatbots, Time-Series Forecasting, Clustering, Segmentation, LLM's, NLP, Langchain, Semantic Kernel, Databricks, Vector Storage, Spark, PySpark, Tableau, Power BI, Seaborn, Pandas, Sci-Py, Scikit-learn, Numpy, Tensorflow, Docker, Asana, Postman, Postgres, Trello, Excel, Power Query, Jira, GIT
-* Functional: Communication Skills, Hypothesis Formulation, Understanding Business Problem, Stakeholder Management, Agile Methodology, Scrum, DevOps
-* Cloud: AWS (Sagemaker, S3, Redshift, Lambda), Kubernetes, Azure
+* Technical:  Generative AI, Text Generation, LLM Fine-Tuning, LLM's, NLP, Langchain, Semantic Kernel, Databricks, Vector Storage, Chatbots, Time-Series Forecasting, Clustering, Segmentation, Spark, PySpark, Tableau, Power BI, Seaborn, Pandas, Sci-Py, Scikit-learn, Numpy, Tensorflow, Docker, Postman, Postgres, GIT, Dataiku
+* Functional: Consulting, Data Science/GenAI Strategy, Communication Skills, Hypothesis Formulation, Understanding Business Problem, Stakeholder Management, Agile, Scrum, DevOps, MLOps
+* Cloud: AWS (Sagemaker, S3, Redshift, Lambda), Kubernetes, Azure, GCP
 
 
 <!--
