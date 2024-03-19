@@ -4,10 +4,9 @@
 I am a Data Scientist with a strong enthusiasm for continual learning. My passion lies in providing clients with clear insights and business understanding regarding their data.
 
 * 🌱 I’m currently learning all things GEN AI 
-* 📫 You can reach me at dakoduru@gmail.com
 * 💬 Find me on [LinkedIn](https://www.linkedin.com/in/danielle-koduru/)
 * 😄 Pronouns: She/Her/Hers
-* ⚡ Fun fact: I love traveling, hiking, and cooking. 
+* ⚡ Fun fact: I love living life in the rockies and love traveling, hiking, and cooking new things. 
 
 ## Languages, Softwares, and Frameworks:
 * Languages: Python, SQL, R, Javascript, React, Node.js
