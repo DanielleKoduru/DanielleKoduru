@@ -6,7 +6,7 @@ I am a Data Scientist with a strong enthusiasm for continual learning. My passio
 * 🌱 I’m currently learning all things GEN AI 
 * 💬 Find me on [LinkedIn](https://www.linkedin.com/in/danielle-koduru/)
 * 😄 Pronouns: She/Her/Hers
-* ⚡ Fun fact: I love living life in the rockies and love traveling, hiking, and cooking new things. 
+* ⚡ Fun fact: I love living life in the rockies, traveling, hiking, and cooking. 
 
 ## Languages, Softwares, and Frameworks:
 * Languages: Python, SQL, R, Javascript, React, Node.js
